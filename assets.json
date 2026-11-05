@@ -1,0 +1,100 @@
+[
+  {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_35JsVMkgn4bb2wehQJlNMtLXODm/hf_20261001_211236_d79f24e3-b219-4e18-962e-7a871bf30c5a.mp4",
+    "localFile": "output-1.mp4",
+    "bytes": 3246475,
+    "sha256": "33550b83706fbb80523c8fa1ce342adfa97de6f30cb997490307568be746a5e5",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 2560,
+          "height": 1440,
+          "r_frame_rate": "24/1"
+        },
+        {
+          "codec_type": "audio",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "8.000000"
+      }
+    }
+  },
+  {
+    "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_35JsVMkgn4bb2wehQJlNMtLXODm/2213136a-a476-4bcb-b9fe-b9b4c58c054c_resize.jpg",
+    "localFile": "reference-2213136a-a476-4bcb-b9fe-b9b4c58c054c.jpg",
+    "bytes": 614758,
+    "sha256": "909a3913267a1ecaad75db17bb6585bb1af7336c856f9c54f476156adcc41c21"
+  },
+  {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_35JsVMkgn4bb2wehQJlNMtLXODm/hf_20260910_210844_0f013826-348b-404d-86f2-0391831c4e8a.mp4",
+    "localFile": "output-2.mp4",
+    "bytes": 21345952,
+    "sha256": "59f1d3e73c74b201e2fc96326be673ba27a0c578cc3a649ac4796c4b5140a9ce",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080,
+          "r_frame_rate": "24/1"
+        }
+      ],
+      "format": {
+        "duration": "4.041667"
+      }
+    }
+  },
+  {
+    "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_35JsVMkgn4bb2wehQJlNMtLXODm/f08616a7-e9cb-4667-aa1e-976ebfba270f.mp4",
+    "localFile": "reference-f08616a7-e9cb-4667-aa1e-976ebfba270f.mp4",
+    "bytes": 1905159,
+    "sha256": "61c1ef207d57994a7e27279ac4ac50c71153dd14caafde098a40d6fb0c405e93",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080,
+          "r_frame_rate": "24/1"
+        },
+        {
+          "codec_type": "audio",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "4.041667"
+      }
+    }
+  },
+  {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_35JsVMkgn4bb2wehQJlNMtLXODm/hf_20260910_210439_828d6d66-9af8-4b0c-a87e-538da5cf322e.mp4",
+    "localFile": "output-3.mp4",
+    "bytes": 10394967,
+    "sha256": "01ed3a57419efd57a261c771f433f836dc40cd25a42d9766772ac1d604d2793d",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080,
+          "r_frame_rate": "24/1"
+        }
+      ],
+      "format": {
+        "duration": "4.041667"
+      }
+    }
+  }
+]
